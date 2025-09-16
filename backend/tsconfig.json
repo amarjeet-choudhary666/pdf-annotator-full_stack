@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",                        // Modern JavaScript features
+    "module": "Node16",                        // Node.js 16 style modules (supports ESM)
+    "moduleResolution": "Node16",              // Matches Node 16's resolution algorithm
+    "lib": ["ES2022"],                        // Include latest ECMAScript features
+    "outDir": "./dist",                        // Output directory for compiled files
+    "rootDir": "./src",                        // Input source directory
+    "strict": true,                            // Enables all strict type-checking options
+    "esModuleInterop": true,                   // Allows default imports from CommonJS modules
+    "forceConsistentCasingInFileNames": true,   // Ensure consistent casing in imports
+    "skipLibCheck": true,                      // Skip type checking of all declaration files
+    "noImplicitAny": true,                     // Raise error on expressions with implicit any
+    "resolveJsonModule": true,                 // Allow importing .json files
+    "noUnusedLocals": true,                    // Report unused local variables
+    "noUnusedParameters": true,                // Report unused function parameters
+    "sourceMap": true,                         // Generate .map files
+    "incremental": true                        // Enable faster incremental builds
+  },
+  "include": [
+    "src/**/*.ts",                            // Include all TypeScript files in src/
+    "types/**/*.d.ts"                         // Include global type definitions
+  ],
+  "exclude": [
+    "node_modules",                           // Exclude dependencies folder
+    "dist"                                     // Exclude output folder
+  ]
+}
