@@ -1,11 +1,30 @@
-### Steps to Run Project
 ## Steps to Run the Project
 
 1. **Install Dependencies**  
    ```bash
    npm install
 
--  ** Run frontend ** - npm run dev
+2. **Run frontend**  
+   ```bash
+   npm run dev
+
+### Steps to Run Project
+## Steps to Run the Project
+
+3. **Run Backend**  
+   ```bash
+   npm run dev
+
+###Login Credentails
+**Email** - amarjeetchoudhary6@gmail.com
+**Password** - Manish@786
+
+-  ** Run Backend ** - npm run dev
+
+### Login Credentails
+** Email ** - amarjeetchoudhary6@gmail.com
+** Password ** - Manish@786
+
 -  ** Run Backend ** - npm run dev
 
 ### Login Credentails
