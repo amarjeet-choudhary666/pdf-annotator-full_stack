@@ -1,5 +1,10 @@
 ### Steps to Run Project
-- ** Install nodemodules ** - npm i
+## Steps to Run the Project
+
+1. **Install Dependencies**  
+   ```bash
+   npm install
+
 -  ** Run frontend ** - npm run dev
 -  ** Run Backend ** - npm run dev
 
