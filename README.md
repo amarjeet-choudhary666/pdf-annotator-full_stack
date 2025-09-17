@@ -285,22 +285,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- **React Team** for the amazing framework
+- **React** for the frontend
 - **Tailwind CSS** for the utility-first CSS framework
 - **MongoDB** for the flexible database
 - **Express.js** for the web framework
 - **PDF.js** for PDF rendering capabilities
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- 📧 Email: [your-email@example.com]
-- 🐛 Open an issue on GitHub
-- 💬 Start a discussion
-
----
-
-<div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
-  <p>⭐ Star this repo if you found it helpful!</p>
-</div>
