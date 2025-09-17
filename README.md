@@ -12,9 +12,11 @@
    ```bash
    npm run dev
 
-###Login Credentails
-**Email** - amarjeetchoudhary6@gmail.com
-**Password** - Manish@786
+## Login Credentials
+
+- **Email:** amarjeetchoudhary6@gmail.com
+- **Password:** Manish@786
+
 
 # 📄 PDF Annotator Full-Stack Application
 
