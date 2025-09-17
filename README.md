@@ -1,3 +1,12 @@
+### Steps to Run Project
+- ** Install nodemodules ** - npm i
+-  ** Run frontend ** - npm run dev
+-  ** Run Backend ** - npm run dev
+
+### Login Credentails
+** Email ** - amarjeetchoudhary6@gmail.com
+** Password ** - Manish@786
+
 # 📄 PDF Annotator Full-Stack Application
 
 A beautiful, modern full-stack React application that allows users to upload PDF files, create highlights, and manage their document library with persistent annotations.
